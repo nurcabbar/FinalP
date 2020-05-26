@@ -1,4 +1,6 @@
 # FinalP
 
 # Versiyon 1
-# ÖRN : kullanıcı girişi eklendi
+# kullanıcı girişi eklendi
+# Versiyon 2
+# stok görüntüleme sayfası eklendi
