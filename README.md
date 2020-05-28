@@ -6,3 +6,5 @@
 # stok görüntüleme sayfası eklendi
 # Versiyon 3
 # stok kayıt sayfası güncelleme
+# Versiyon 4
+# stok kayıt sayfası güncelleme 
