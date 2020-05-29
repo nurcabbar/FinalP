@@ -8,3 +8,5 @@
 # stok kayıt sayfası güncelleme
 # Versiyon 4
 # stok kayıt sayfası güncelleme 
+# Versiyon 5
+# urun java sayfası eklendi 
