@@ -10,3 +10,5 @@
 # stok kayıt sayfası güncelleme 
 # Versiyon 5
 # urun java sayfası eklendi.
+# Versiyon 6
+# dataConnection class ı eklendi.

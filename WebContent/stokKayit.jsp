@@ -1,3 +1,5 @@
+<%@page import="java.sql.Connection"%>
+<%@page import="java.sql.DriverManager"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
@@ -6,6 +8,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset="ISO-8859-1">
 <title>Stok Kayit</title>
 <script>
+
 
 function formKontrol()
 {
@@ -34,6 +37,10 @@ function formKontrol()
 
 </head>
 <body>
+<p><center><h2><b>STOK GIRIS-GORUNTULEME UYGULAMASI</b></h2></center></p>
+<br/>
+<p><b>STOK KAYIT:</b></p>
+
  <table id="tablo" border="1" bordercolor="white" cellspacing="0" cellpadding="0" width="500">
 <tr>
 <td>Urun Barkod No: </td>
@@ -59,5 +66,6 @@ function formKontrol()
  
 </tr>
 </table>
+
 </body>
 </html>
